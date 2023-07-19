@@ -30,7 +30,7 @@ This project is licensed under the
 ## Credits
 
 - Author: Rhitik Thavai
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- GitHub: [https://github.com/Rhitik11](https://github.com/Rhitik11)
 
 Special thanks to the following open-source projects for their contributions:
 - Font Awesome: [https://fontawesome.com](https://fontawesome.com)
