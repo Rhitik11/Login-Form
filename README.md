@@ -25,8 +25,7 @@ A live demo of the login form can be accessed
 
 ## License
 
-This project is licensed under the 
-
+This project is **free to use** and does not contains any license.
 ## Credits
 
 - Author: Rhitik Thavai
